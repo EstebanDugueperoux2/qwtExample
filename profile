@@ -9,4 +9,6 @@ compiler.libcxx=libstdc++11
 build_type=Release
 [options]
 [build_requires]
+[tool_requires]
+qt/5.15.2
 [env]
